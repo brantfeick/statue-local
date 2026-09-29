@@ -1,5 +1,7 @@
 # Statue [![npm version](https://img.shields.io/npm/v/statue-ssg.svg)](https://www.npmjs.com/package/statue-ssg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+NOTICE: This is personal fork of an existing OSS project I previously worked on while at Accretional.
+
 Statue is a wicked-fast static site generator based on Markdown, Svelte, Tailwind, Pagefind, and reusable components.
 
 **One-line setup! (requires npm):**
