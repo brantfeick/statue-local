@@ -39,8 +39,6 @@ yes | npx sv create statue-site --template minimal --types ts --no-add-ons --ins
 
 Content like blogs and docs are added and changed directly through `.md` files. Other parts of the Statue site are based on Svelte components and the site's config. Statue sites are fully static, so **development is straightforward, management is simple, and hosting is ~free!**
 
-Need help? Want to collaborate, contribute, or engage with the Statue community? **[Join us on Discord! 🗿](https://discord.gg/accretional)**
-
 ![area3-github](https://github.com/user-attachments/assets/9a53e186-60fd-443e-b87b-9907d217df20)
 
 ## Why Statue?
